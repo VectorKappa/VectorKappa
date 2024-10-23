@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4185" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4190" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 9 users
+                            Followed by 8 users
                         </div>
                     </section>
                     <section>
@@ -1923,23 +1923,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>nushell/nushell</span>
+                                                <span>glacambre/firenvim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A new type of shell</div>
+                                        <div class="field description">Embed Neovim in Chrome, Firefox &amp; others.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Rust
+                                                TypeScript
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                32k
+                                                4.74k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -1957,23 +1957,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>maharmstone/btrfs</span>
+                                                <span>nushell/nushell</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">WinBtrfs - an open-source btrfs driver for Windows</div>
+                                        <div class="field description">A new type of shell</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C
+                                                Rust
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                5.85k
+                                                32k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2003,17 +2003,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>xxczaki/awesome-calculators</span>
+                                                <span>ad3rito/AfterLife</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">😎 A curated list of resources related to calculators!</div>
+                                        <div class="field description">This application is for people who format the pc and do not want to forget any application to install.</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                HTML
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                178
+                                                17
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2031,11 +2037,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>MusicPlayerDaemon/mpdscribble</span>
+                                                <span>scottbez1/smartknob</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">a MPD client which submits information about tracks being played to a scrobbler (e.g. last.fm)</div>
+                                        <div class="field description">Haptic input knob with software-defined endstops and virtual detents</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2047,7 +2053,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                117
+                                                19.2k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2274,11 +2280,10 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    9 followers
+                    8 followers
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEzUlEQVR4nMXVa0xTZxgHcM45nW4um5otLhvraS2y1s2IbDKdxjlIlrkbZnzh4gVRETZKEBULRRAMisaiyIAIKBRoKQJtuUlLL6flUkux3HqoLVIuLe2AculBg6A9pkuccUuUaDeTJc+H99Mv7/M+/yevxxw29drL4/9E7ZPWLm2HxWx6PejszIRYVN/c3IDN2hbmp8bMd8f/MP8nFJE3n0yIVyDixYXp0eH+O+jt3i7V9KTZZh35lyi7pIgeE5XFOr+wMD05bipnF9UJqmqquFJxg9U86JiZcBtVtSsjDuzbuyeEyynBnQ784eyM3TI2OoDN2qyWgcX5qWGTAXPY3UMLCvJDQoL37993o7JsYX7SajZaLXdVbbLi60V5ubmiJrFM0qhSIZ2a9udpj6VQJpMRERFeWckRN9XqdZ16VCuRSIS1oiZJm7BeerNJ3tomN5vvdHQono+Ex1Jo8fWrCCK6lJWVm5sfGhp88GBkXPyJuPiEGoEo/GDksYSkI9FHeJWlw0NGzPHK7Tc2CE4cYxw+FLVjx87Dh6IqeLVIS2fW5bxvAgIKrnEULd0yRJmSwnTjTTGHPftylt/mLwMDA8PCwkND9vD59SUlHAYjOTEpNef3/KIiNpdbUVNzww1UqZCzWDlp6ZmnUjLy8tlBQcF0enzK6TMxMUejo49GRv4WQ49NS08fGxt5VRRz2PPzr9Lpx4uLK5JPneHxhOcys5ua26VIh1ShEUlVMkSDKNQGgx5zK6e8Cl562nkOV8hkZlxk5WVeyEFatUhr17OSKdTd3d3uhd9wBy0qvHb8eFLyqYxzmdkZZy/JW56ifx1a2rX9etTtjcIcU0olcjIhOS3tQuE1Dl/Q3CxVC+vkpZzaGoHklqbXNDTgNjqHTXWoVUmJqaGh4YWFZXx+Ywm7kl1ezauqbxK33BTJpmcm3b8pNmU0oHGxCcnMM4E/B0VG0it4goKC0rp6SVV1g8FoXGpKcy+ePmYfOs1CN35bt5LCZKSmpGQkMlL37jnw/a6f/NdSRT+EdZ/NGunUPL9IL4mU5gNfFID7QDKycr2Msq1+5y+soH0XL15hxB4TvknsWL7WsePHwTaFG+hAeaWGQNJCMAqS7gJkHKA9+mhLo892DlcgrBVfSUhiv/XxvdU+fdnZc45XQzGHXRfHVBJgFQj3AyQUIN0HPsEBqnz1elW7qq+n72YpdxCkPFi1CfUPtPb1vhy1IAqUsk0HkXtBuAeEVRBRQfDUgSQLYV3bCopULBodGe6SIu2rqPoN2xff+9wUsHuAlT07Pb4kOljG6122TgeSUABWE4go8KR9iOwEqPi7Pvd8AkSF110uFzaLNaygODz97kG0mXc2Ln64RR8VO24yvgCdGBnUkbeqIaIaIukAUg8IayD4Ngh3QbAZ8p4E19mWU/lRcS6XC8dxrq+/DfIehrxGCF4PANr0Gt+e4EP/DMNT1JSYYQBgLUTsBWEtCKsh4i2I2A+ScA8qDtBwgDZP/Vrov9vpdLpcrurwX/Flnz364jvb+5vG3v50lOBlpH41Yfv7336KDu2O0D/ptweEG97w7AKJfQA8BJBxD+pjgPYYoM2B3gLa1oeLD10uFz86fhyk3Ae8nQDNucbPsWHnEHmzRal8hv4J54sHX9Bo0CsAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAQME/8QALhAAAQMDAAgFBAMAAAAAAAAAAQIDBAAFEQYSEyExQVFhBxRCUnEVIoGhMlPR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACBBEDBRMUMf/aAAwDAQACEQMRAD8Ape8XNm2RQ47lS1HVQ2nis9B/tAc/TmSl1WH2Wkj0tMbUDsVFQz+BitPiVcHEXCQkqwG222k9g5rlR/OoB8ULWpmJdY+zMaYZEfKlGMjabZPQ5P2nof1XdhwcYw9sotataKspkWHS9UlDSp6G/LOr2SZTQISF+xQPA98kUajhU4/XXp14ixSkMQiryyYyf4tpUcH5PPJ5injobMcn6LWyS+VF1xhJUepxjNLbCD56fVWhcEOeJVjVJ1Z6EOLZ2YakpaGVJSDkOAc8ZIPY0q74/OWpuPZYzwtrCtZlcfLhcV/Yop9Xblwqk6Hp2iVhuEpb0q1RVO62SsI1So98caKDsuADXiwPioFI6x2y6XzSAuKSlVyc34AGGd2Nq5jcnHHHEnG7rQ1sgt2+3RYbG5qO0lpPwBisW22wrawGbfFYjNe1pASP1XbS+wnulOAAoBQlf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACC0lEQVR4nGP4/vUL1RHDqKHfR8P06+BIUh8/fLhw5hiVDf3y7t2rO0cfP3lBwNBvXz4Tb+jtu4/vXtz75f379+/e4zP01Nnr759eQVNx/vKdzumb0irmlLYuXbftxLu37+BSb+4dffHk7sUrtwh4//Xd03D206cvPeK6eLTTkJGKQ8mug+ehht49cuvSkefPX+Ez9M6dR++fXPzy/vn3r1+eP39l4lsHMUjdqTy5fK5rTKegfiaPdpqIUfaqzUefP3/16Mqed4/Of/nwAZ+hX96/f//k0s3zux88fLZ4xnpp0xwe7TTflL5Pn7/6BwQdO35qyYZjEGsE9TPPXbr9+s7Bp7dOPbhz9fHj5/i8//7JhRe3D527cDMvu7+7dg6vdlpJ2/Jv376pqmsvWrJi1+HL8HCIyJ366Preu1ePvX1wEp9L33/4cOHy0SPHN+7ZdnhS0/z53UuTk7sEDTJzGxYvXn+0Z9Y2GcsCuKEixtmHj64/cXr7zTuXvqImGwZkzoUHT3aev7Dr3OlV6/af3naotWNJd8/ysMwJZiHNWNGuw1uPHlu7/dLNJ6/e4Eun91+8OnH74a4rt7ddukUQ7bt29+KDJ2/e402n35FMf/fhw7M3b+89f3Xz6Yvrj59fffzs2uNn1588v/3sxcOXr1+9e/fx00dc+YKB7GyKBzGMGvp9NEy/UjNJAQBV4D+Kux6NmQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
@@ -2702,7 +2707,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.231155778894473 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2739,9 +2744,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.73m out of 147m users</span>
+                                    <span class="gh">ranked 1.93m out of 147m users</span>
                                 </div>
-                                <div class="text">Followed by 9 users</div>
+                                <div class="text">Followed by 8 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2863,7 +2868,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 225m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3053,7 +3058,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2024, 12:13:49 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2024, 14:25:19 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
