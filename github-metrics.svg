@@ -1696,7 +1696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webserver-llc/angie</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Angie - drop-in replacement for nginx</div>
@@ -1749,7 +1749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nginx/nginx</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official NGINX Open Source repository.</div>
@@ -1802,7 +1802,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhangty019/S3_DeformFDM</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">S^3-Slicer: A General Slicing Framework for Multi-Axis 3D Printing</div>
@@ -2396,7 +2396,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 May 2025, 14:29:29 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2025, 16:15:15 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
