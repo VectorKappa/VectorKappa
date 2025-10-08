@@ -1696,7 +1696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/mozc-devices</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Circuit diagrams and firmware source code for Gboard DIY keyboards</div>
@@ -1749,7 +1749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fosrl/pangolin</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI</div>
@@ -2403,7 +2403,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2025, 18:18:10 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2025, 20:21:37 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
